@@ -4,8 +4,9 @@
 
 > Reconhecidamente a melhor solução para serviços de entrega, com foco exclusivamente no cliente e totalmente comprometida em superar expectativas.
 
-![Markdown](https://img.shields.io/badge/Version-0.1-blueviolet?style=plastic)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-0.1-blueviolet?style=plastic">
+</p>
 
 <p align="center">
 :link:| &nbsp;<a href="#page_with_curl-Descrição">Descrição </a> &nbsp;  | &nbsp; <a href="#file_folder-Módulos">Módulos </a> &nbsp; |
