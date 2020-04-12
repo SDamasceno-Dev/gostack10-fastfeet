@@ -6,8 +6,9 @@
 
 ![Markdown](https://img.shields.io/badge/Version-0.1-blueviolet?style=plastic)
 
+
 <p align="center">
-| &nbsp;<a href="#page_with_curl-Descrição">Descrição </a> &nbsp;  | &nbsp; <a href="#file_folder-Módulos">Módulos </a> &nbsp; |
+:link:| &nbsp;<a href="#page_with_curl-Descrição">Descrição </a> &nbsp;  | &nbsp; <a href="#file_folder-Módulos">Módulos </a> &nbsp; |
 </p>
 
 ## :page_with_curl: Descrição
@@ -18,3 +19,7 @@ Nesse app foram englobados todos os recursos essenciais para o gerenciamento de 
 O sistema está todo estruturado em 3 grandes módulos Back-end (API), Front-end (Web) e Mobile (Dispositivo móvel). Dentro de cada um dos módulos estará todas as informaçòes relativas a ele como a sua instalação, as tecnologias utilizadas no módulo, como utilizar e demais informações.
 
 ## :file_folder: Módulos
+
+:wrench: Back-end (API)
+:computer: Front-end (Web)
+:iphone: Mobile (Dispositivo móvel)
