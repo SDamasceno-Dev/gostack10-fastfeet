@@ -22,5 +22,5 @@ O sistema está todo estruturado em 3 grandes módulos Back-end (API), Front-end
 ## :file_folder: Módulos
 
 - :wrench: <a href="https://github.com/SDamasceno-Dev/gostack-fastfeet-back_end">Back-end (API)</a>
-- :computer: Front-end (Web)
-- :iphone: Mobile (Dispositivo móvel)
+- :computer: <a href="https://github.com/SDamasceno-Dev/gostasck-fastfeet-frontend">Front-end (Web)</a>
+- :iphone: <a href="https://github.com/SDamasceno-Dev/gostack-fastfeet-mobile">Mobile (Dispositivo móvel)</a>

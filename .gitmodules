@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/SDamasceno-Dev/gostasck-fastfeet-frontend
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/SDamasceno-Dev/gostack-fastfeet-mobile
