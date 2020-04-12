@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/SDamasceno-Dev/gostack-fastfeet-back_end
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SDamasceno-Dev/gostasck-fastfeet-frontend
