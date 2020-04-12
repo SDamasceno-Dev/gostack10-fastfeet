@@ -1,6 +1,6 @@
-![alt text][logo]
-
-[logo]: https://i.imgur.com/b9HrmqJ.png "FastFeet Logo"
+<p align="center">
+  <img src="https://i.imgur.com/b9HrmqJ.png">
+</p>
 
 > Reconhecidamente a melhor solução para serviços de entrega, com foco exclusivamente no cliente e totalmente comprometida em superar expectativas.
 
