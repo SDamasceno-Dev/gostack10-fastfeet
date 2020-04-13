@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-:link:| &nbsp;<a href="#page_with_curl-Descrição">Descrição </a> &nbsp;  | &nbsp; <a href="#file_folder-Módulos">Módulos </a> &nbsp; |
+:link:|&nbsp;<a href="#page_with_curl-Descrição">Descrição </a> &nbsp;|&nbsp; <a href="#file_folder-Módulos">Módulos </a> &nbsp;|&nbsp; <a href="https://github.com/SDamasceno-Dev/gostack10-fastfeet/blob/master/LICENSE.MD">Licença </a> &nbsp; |
 </p>
 
 ## :page_with_curl: Descrição
