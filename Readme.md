@@ -14,13 +14,18 @@
 
 ## :page_with_curl: Descrição
 
-O sistema FastFeet, desenvolvido usando as tecnologias NodeJS, ReactJS e React Native, tem como objetivo apresentar a proposta de solução para o desafio final de certificação do Bootcamp GoStack 10 da Rocketseat.
+O sistema FastFeet, desenvolvido usando as tecnologias NodeJS, ReactJS e React Native, tem como objetivo apresentar a proposta de solução para o desafio final de **certificação** do Bootcamp **GoStack 10** da Rocketseat.
+
 Este desafio teve como proposta o desenvolvimento de um app para uma transportadora fictícia.
+
 Nesse app foram englobados todos os recursos essenciais para o gerenciamento de encomendas (Deliveries), clientes (Recipients) e entregadores (Couriers).
-O sistema está todo estruturado em 3 grandes módulos Back-end (API), Front-end (Web) e Mobile (Dispositivo móvel). Dentro de cada um dos módulos estará todas as informaçòes relativas a ele como a sua instalação, as tecnologias utilizadas no módulo, como utilizar e demais informações.
+O sistema está todo estruturado em 3 grandes módulos Back-end (API), Front-end (Web) e Mobile (Dispositivo móvel). Dentro de cada um dos módulos estará todas as informações relativas a ele como a sua instalação, as tecnologias utilizadas no módulo, como utilizar e demais informações.
 
 ## :file_folder: Módulos
 
 - :wrench: <a href="https://github.com/SDamasceno-Dev/gostack-fastfeet-back_end">Back-end (API)</a>
 - :computer: <a href="https://github.com/SDamasceno-Dev/gostasck-fastfeet-frontend">Front-end (Web)</a>
 - :iphone: <a href="https://github.com/SDamasceno-Dev/gostack-fastfeet-mobile">Mobile (Dispositivo móvel)</a>
+
+---
+Criado e editado por **Sandro de Oliveira Damasceno** :space_invader: [github!](https://github.com/SDamasceno-Dev) :octocat:
